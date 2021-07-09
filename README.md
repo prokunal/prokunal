@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prokunal
+- 👋 Hi, I’m @prokunal (Pro - Programmer)
 - 👀 I’m Cyber Security Student
 - 🌱 I’m currently Student at NIELIT, Pentester Academy and ISOEH ...
 - 💞️ I’m looking to collaborate on some awesome project for Infosec
