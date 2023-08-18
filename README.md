@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prokunal (Pro - Programmer)
+- 👋 Hi, I’m Kunal (@prokunal: Pro - Programmer)
 - 👀 I’m Cyber Security Student
 - 💞️ I’m looking to collaborate on some awesome projects for Infosec<br><br>
      <img src="https://s6.gifyu.com/images/giphy7a00e0edffca1d6d.gif"><br>
